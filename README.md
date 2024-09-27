@@ -10,6 +10,8 @@
 7. http://localhost:8080/image
 8. http://localhost:8080/embedding
 
+使用 Open JDK 17
+
 Spring AI DOC:
 https://docs.spring.io/spring-ai/docs/1.0.0-SNAPSHOT/api/
 
